@@ -17,4 +17,4 @@ Copyright 2014 Git.Training
 
 # Contribute
 
-Please fork this repository and then issue Pull Request for review.
+Please fork this repository and then issue Pull Request for review
